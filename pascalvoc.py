@@ -55,7 +55,7 @@ import _init_paths
 from BoundingBox import BoundingBox
 from BoundingBoxes import BoundingBoxes
 from Evaluator import *
-from utils import BBFormat
+from utils_metrics import BBFormat
 
 
 # Validate formats
